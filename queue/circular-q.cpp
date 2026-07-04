@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Cq
+class CircularQueue
 {
   int crrSize;
   int *arr;
@@ -9,7 +9,7 @@ class Cq
   int f, r;
 
 public:
-  Cq(int capacity)
+  CircularQueue(int capacity)
   {
     this->capacity = capacity;
     crrSize = 0;
@@ -35,6 +35,7 @@ public:
     if (empty())
     {
       cout << "cq is empty" << endl;
+      return;
     }
     f = (f + 1) % capacity;
     crrSize--;
@@ -44,6 +45,7 @@ public:
     if (empty())
     {
       cout << "cq is empty" << endl;
+      return -1;
     }
     return arr[f];
   }
@@ -52,9 +54,34 @@ public:
   {
     return crrSize == 0;
   }
+
+  void print()
+  {
+    if (empty())
+    {
+      cout << "cq is empty!" << endl;
+      return;
+    }
+    for (int i = 0; i < crrSize; i++)
+    {
+      cout << arr[i] << " ";
+    }
+    cout << endl;
+  }
 };
 int main()
 {
+  CircularQueue cq(3);
+  cq.push(1);
+  cq.push(2);
+  cq.push(3);
+  cq.pop();
+  cq.push(4);
+  while (!cq.empty())
+  {
+    cout << cq.front() << " ";
+    cq.pop();
+  }
 
   return 0;
 }
