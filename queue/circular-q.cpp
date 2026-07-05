@@ -39,6 +39,14 @@ public:
     f = (f + 1) % capacity;
     crrSize--;
   }
+  int front()
+  {
+    if (empty())
+    {
+      cout << "cq is empty" << endl;
+    }
+    return arr[f];
+  }
 
   bool empty()
   {
