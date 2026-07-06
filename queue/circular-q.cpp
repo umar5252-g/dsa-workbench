@@ -29,6 +29,21 @@ public:
     arr[r] = val;
     crrSize++;
   }
+
+  void pop()
+  {
+    if (empty())
+    {
+      cout << "cq is empty" << endl;
+    }
+    f = (f + 1) % capacity;
+    crrSize--;
+  }
+
+  bool empty()
+  {
+    return crrSize == 0;
+  }
 };
 int main()
 {
