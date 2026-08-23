@@ -7,7 +7,7 @@ int getCelebrity(vector<vector<int>> arr)
 {
   stack<int> s;
   int n = arr.size();
-  for (int i = 0; i < n - 1; i++)
+  for (int i = 0; i < n; i++)
   {
     s.push(i);
   }
@@ -39,6 +39,8 @@ int getCelebrity(vector<vector<int>> arr)
 }
 int main()
 {
-
+  vector<vector<int>> arr = {{0, 1, 0}, {0, 0, 0}, {0, 1, 0}};
+  int celebrity = getCelebrity(arr);
+  cout << "celebrity is: " << celebrity << endl;
   return 0;
 }
