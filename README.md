@@ -37,23 +37,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/umar5252-g/DSA-Workbench/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/umar5252-g/DSA-Workbench/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/umar5252-g/DSA-Workbench/tree/master/0146-lru-cache) |
+| [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umar5252-g/DSA-Workbench/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/umar5252-g/DSA-Workbench/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0022-generate-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/umar5252-g/DSA-Workbench/tree/master/0556-next-greater-element-iii) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umar5252-g/DSA-Workbench/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/umar5252-g/DSA-Workbench/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/umar5252-g/DSA-Workbench/tree/master/0042-trapping-rain-water) |
+| [0134-gas-station](https://github.com/umar5252-g/DSA-Workbench/tree/master/0134-gas-station) |
+| [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/umar5252-g/DSA-Workbench/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/umar5252-g/DSA-Workbench/tree/master/0877-stone-game) |
 ## Binary Search
@@ -126,4 +131,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/umar5252-g/DSA-Workbench/tree/master/0146-lru-cache) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/umar5252-g/DSA-Workbench/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
