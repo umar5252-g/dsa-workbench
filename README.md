@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/umar5252-g/DSA-Workbench/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/umar5252-g/DSA-Workbench/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -156,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/umar5252-g/DSA-Workbench/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
