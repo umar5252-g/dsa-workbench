@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/umar5252-g/DSA-Workbench/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/umar5252-g/DSA-Workbench/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/umar5252-g/DSA-Workbench/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/umar5252-g/DSA-Workbench/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/umar5252-g/DSA-Workbench/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/umar5252-g/DSA-Workbench/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/umar5252-g/DSA-Workbench/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
