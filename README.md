@@ -139,11 +139,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/umar5252-g/DSA-Workbench/tree/master/0146-lru-cache) |
+| [0933-number-of-recent-calls](https://github.com/umar5252-g/DSA-Workbench/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/umar5252-g/DSA-Workbench/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/umar5252-g/DSA-Workbench/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
