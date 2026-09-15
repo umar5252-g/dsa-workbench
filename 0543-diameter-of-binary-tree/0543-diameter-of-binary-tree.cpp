@@ -14,7 +14,7 @@
 class Solution {
 public:
 
-int ans;
+    int ans;
      int height(TreeNode* root){
     if(root == NULL) return 0;
 
