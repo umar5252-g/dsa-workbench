@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/umar5252-g/DSA-Workbench/tree/master/0342-power-of-four) |
 | [0556-next-greater-element-iii](https://github.com/umar5252-g/DSA-Workbench/tree/master/0556-next-greater-element-iii) |
 | [0877-stone-game](https://github.com/umar5252-g/DSA-Workbench/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/umar5252-g/DSA-Workbench/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/umar5252-g/DSA-Workbench/tree/master/0283-move-zeroes) |
 | [0877-stone-game](https://github.com/umar5252-g/DSA-Workbench/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/umar5252-g/DSA-Workbench/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/umar5252-g/DSA-Workbench/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/umar5252-g/DSA-Workbench/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/umar5252-g/DSA-Workbench/tree/master/0232-implement-queue-using-stacks) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -117,7 +124,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/umar5252-g/DSA-Workbench/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -131,11 +146,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/umar5252-g/DSA-Workbench/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/umar5252-g/DSA-Workbench/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/umar5252-g/DSA-Workbench/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/umar5252-g/DSA-Workbench/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/umar5252-g/DSA-Workbench/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/umar5252-g/DSA-Workbench/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/umar5252-g/DSA-Workbench/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -156,4 +177,51 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/umar5252-g/DSA-Workbench/tree/master/0134-gas-station) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/umar5252-g/DSA-Workbench/tree/master/0933-number-of-recent-calls) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
