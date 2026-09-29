@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umar5252-g/DSA-Workbench/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/umar5252-g/DSA-Workbench/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/umar5252-g/DSA-Workbench/tree/master/0146-lru-cache) |
 | [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/umar5252-g/DSA-Workbench/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/umar5252-g/DSA-Workbench/tree/master/0042-trapping-rain-water) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/umar5252-g/DSA-Workbench/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/umar5252-g/DSA-Workbench/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/umar5252-g/DSA-Workbench/tree/master/0283-move-zeroes) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/umar5252-g/DSA-Workbench/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Stack
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
@@ -198,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
