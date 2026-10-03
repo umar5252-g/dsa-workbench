@@ -101,15 +101,36 @@ void kthLevel(Node *root, int k)
   kthLevel(root->left, k - 1);
   kthLevel(root->right, k - 1);
 }
+
+int sumTree(Node *root)
+{
+  if (root == NULL)
+    return 0;
+
+  int leftSum = sumTree(root->left);
+  int rightSum = sumTree(root->right);
+
+  root->data += leftSum + rightSum;
+
+  return root->data;
+}
 int main()
 {
-  vector<int> preOrderSeq{1, 2, 7, -1, -1, -1, 3, 4, -1, -1, 5, -1, -1};
+  vector<int> preOrderSeq{1, 2, -1, -1, 3, 4, -1, -1, 5, -1, -1};
   Node *root = binaryTree(preOrderSeq);
 
-  // preOrder(root);
+  cout << "Before conversion: ";
+  preOrder(root);
+
+  sumTree(root);
+
+  cout << endl;
+  cout << "after conversion: ";
+  preOrder(root);
+
   // inOrder(root);
   // postOrder(root);
-  kthLevel(root, 3);
+  // kthLevel(root, 3);
   cout << endl;
   return 0;
 }
