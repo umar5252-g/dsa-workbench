@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/umar5252-g/DSA-Workbench/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/umar5252-g/DSA-Workbench/tree/master/0556-next-greater-element-iii) |
+| [0856-score-of-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/umar5252-g/DSA-Workbench/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/umar5252-g/DSA-Workbench/tree/master/0232-implement-queue-using-stacks) |
+| [0856-score-of-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -245,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
