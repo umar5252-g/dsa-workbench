@@ -46,8 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/umar5252-g/DSA-Workbench/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/umar5252-g/DSA-Workbench/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/umar5252-g/DSA-Workbench/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/0387-first-unique-character-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/umar5252-g/DSA-Workbench/tree/master/0556-next-greater-element-iii) |
+| [0856-score-of-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Sliding Window
 |  |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/umar5252-g/DSA-Workbench/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/umar5252-g/DSA-Workbench/tree/master/0232-implement-queue-using-stacks) |
+| [0856-score-of-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0856-score-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/umar5252-g/DSA-Workbench/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0022-generate-parentheses) |
+| [0257-binary-tree-paths](https://github.com/umar5252-g/DSA-Workbench/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/umar5252-g/DSA-Workbench/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/umar5252-g/DSA-Workbench/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
@@ -193,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/umar5252-g/DSA-Workbench/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -207,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/umar5252-g/DSA-Workbench/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/umar5252-g/DSA-Workbench/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -240,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/umar5252-g/DSA-Workbench/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/umar5252-g/DSA-Workbench/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
