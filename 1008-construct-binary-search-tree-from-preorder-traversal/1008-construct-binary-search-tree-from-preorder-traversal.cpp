@@ -13,7 +13,7 @@
 class Solution {
 public:
     TreeNode* helper(vector<int>& preorder, int &i, int bound ){
-        if(i>=preorder.size() || preorder[i]>bound){
+        if( i>=preorder.size() || preorder[i]>bound){
             return NULL;
         }
         TreeNode* root = new TreeNode(preorder[i]);
